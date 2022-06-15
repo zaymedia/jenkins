@@ -1,0 +1,3 @@
+certbot_email: mail@zay.media
+certbot_hosts:
+    - jenkins.zay.media
